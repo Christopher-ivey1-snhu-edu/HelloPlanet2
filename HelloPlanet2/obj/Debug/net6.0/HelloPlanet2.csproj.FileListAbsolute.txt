@@ -1,0 +1,15 @@
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\bin\Debug\net6.0\HelloPlanet2.exe
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\bin\Debug\net6.0\HelloPlanet2.deps.json
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\bin\Debug\net6.0\HelloPlanet2.runtimeconfig.json
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\bin\Debug\net6.0\HelloPlanet2.dll
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\bin\Debug\net6.0\HelloPlanet2.pdb
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.csproj.AssemblyReference.cache
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.AssemblyInfoInputs.cache
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.AssemblyInfo.cs
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.csproj.CoreCompileInputs.cache
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.dll
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\refint\HelloPlanet2.dll
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.pdb
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\HelloPlanet2.genruntimeconfig.cache
+C:\Users\Chiin\source\repos\HelloPlanet2\HelloPlanet2\obj\Debug\net6.0\ref\HelloPlanet2.dll
